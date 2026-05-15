@@ -1,4 +1,4 @@
-# 🐕 Friends Forever (Bedrock Edition Port) 🕊️
+# 🐕 Friends Forever [Bedrock Edition] 🕊️
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-Bedrock%201.20+-green?style=for-the-badge&logo=minecraft)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Win10-blue?style=for-the-badge)
@@ -27,7 +27,7 @@
 * **Eternal Loyalty:** Tamed wolves return as ghosts after death.
 * **Soul Glass System:** Specialized item used to "Open the Eyes" and reveal the spirits.
 * **Heavenly Farewell:** Cinematic goodbye scene with custom particles and heart-wrenching dialogue.
-* **Performance Optimized:** Smooth experience on mobile devices (Tested on Helio G85).
+* **Performance Optimized:** Normal Experience if you don't add shader.
 
 ### Technical Specifications
 * **Namespace:** `friends_forever`
@@ -49,7 +49,7 @@
 
 ### ข้อมูลทางเทคนิค
 * **Namespace:** `friends_forever`
-* **รูปแบบไฟล์:** `.mcaddon` (รวม BP และ RP ไว้ในไฟล์เดียว)
+* **รูปแบบไฟล์:** `.mcaddon`
 * **เวอร์ชันขั้นต่ำ:** 1.20.10 เป็นต้นไป
 
 ---
@@ -69,7 +69,7 @@
 1. Download the `.mcaddon` file.
 2. Open the file to import it into Minecraft Bedrock.
 3. Activate both **Behavior Pack** and **Resource Pack** in your world settings.
-*(ดาวน์โหลดไฟล์ .mcaddon และเปิดใช้งานทั้ง BP/RP ในการตั้งค่าโลกของคุณ)*
+*(ต้องดาวน์โหลดไฟล์ .mcaddon และเปิดใช้งานทั้ง BP/RP ในการตั้งค่าโลกของคุณ)*
 
 ---
 © 2026 imdev99. Ported with respect to the original creator.
